@@ -1,6 +1,6 @@
 # 🌤 Weather App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://weatherapp-011.netlify.app)
+
 
 Live Demo: [weatherapp-011.netlify.app](https://weatherapp-011.netlify.app)
 
